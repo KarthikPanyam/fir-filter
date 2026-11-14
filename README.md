@@ -130,8 +130,4 @@ fir-filter/
 
 ## Author
 
-*Your name here*
-
-## License
-
-*To be decided*
+Karthik Naresh Panyam
